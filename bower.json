@@ -1,0 +1,10 @@
+{
+  "name":"Aula2",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "~",
+    "react-dom": "~",
+    "babel": "5.8.24"
+  },
+  "appPath": "app"
+}
